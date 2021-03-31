@@ -1,0 +1,4 @@
+﻿  main.cpp
+c:\users\13418\desktop\新建文件夹\subsidy\韩国高丽大学学生\5_26\practice08\practice08\main.cpp(68): warning C4838: 从“double”转换到“int”需要收缩转换
+c:\users\13418\desktop\新建文件夹\subsidy\韩国高丽大学学生\5_26\practice08\practice08\main.cpp(68): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  practice08.vcxproj -> C:\Users\13418\Desktop\新建文件夹\subsidy\韩国高丽大学学生\5_26\practice08\Debug\practice08.exe
