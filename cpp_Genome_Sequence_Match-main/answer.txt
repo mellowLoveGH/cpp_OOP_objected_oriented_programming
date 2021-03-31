@@ -1,0 +1,2 @@
+ACCGTT, 3354 substrings allowing 2 mismatches
+TTCCTAGCG, 1167 substrings allowing 3 mismatches
